@@ -1,0 +1,8 @@
+{
+  "name": "wong-halves",
+  "version": "1.0.0",
+  "description": "Wong Halves Blackjack counter - packaged for Capacitor (www directory contains the web app)",
+  "scripts": {
+    "build": "echo 'The web app is ready in ./www - build steps use Capacitor in native side'"
+  }
+}
